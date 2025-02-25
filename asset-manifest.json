@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fastapi-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/fastapi-ui/static/js/main.49e2f033.js",
+    "static/js/453.9042a61b.chunk.js": "/fastapi-ui/static/js/453.9042a61b.chunk.js",
+    "index.html": "/fastapi-ui/index.html",
+    "main.e6c13ad2.css.map": "/fastapi-ui/static/css/main.e6c13ad2.css.map",
+    "main.49e2f033.js.map": "/fastapi-ui/static/js/main.49e2f033.js.map",
+    "453.9042a61b.chunk.js.map": "/fastapi-ui/static/js/453.9042a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49e2f033.js"
+  ]
+}
